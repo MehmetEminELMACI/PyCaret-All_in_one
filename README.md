@@ -3,6 +3,11 @@
 ## What is PyCaret ? 
 Pycaret allows it to run all optimization algorithms in a single code and largely handles the data preparation and future engineering parts.
 
+## What can PyCaret ? 
+
+![2021-04-26_15-42-50](https://user-images.githubusercontent.com/73308365/116084239-41950800-a6a6-11eb-9bb9-2a08341e0438.png)
+
+
 ## CONTENTS :
 
 - REGRESSION MODELS : 
